@@ -10,3 +10,6 @@ esc키를 누르면 프로그램이 종료됩니다.
 
 추가기능:
 +와 -버튼을 눌렀을때 밝기가 조정되도록 했으며, 이를 화면 상단에 출력합니다
+<p>
+  <img width="50%" src="https://github.com/sehwan12/video_recorder/assets/58384653/07bb97a2-6a50-4d16-872d-c8a91e08386b">
+</p>
